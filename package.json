@@ -5,8 +5,8 @@
   "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "npm install",
-    "build": "node ."
+    "start": "node .",
+    "build": "npm install"
   },
   "author": "Manoja D, Aditya S, Giridhar D, Yashwanth M S, Arya P",
   "license": "ISC",
