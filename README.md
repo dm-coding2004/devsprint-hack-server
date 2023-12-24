@@ -1,5 +1,6 @@
 ## SetUp Project: 
-Clone this Repo, and run ```node server.js```. Then you will have the server running, and access to APIs. 
+Clone this Repo, and run ```node server.js```. 
+Then you will have the server running, and access to APIs. 
 
 ## Hey, DevSprint Team. Darkmode Team here: ✨
 This is the project that we build for your Hackathon.
